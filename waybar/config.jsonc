@@ -1,0 +1,8 @@
+{
+  "position":"top",
+  "layer":"top",
+  "height":30,
+  "modules-left":["hyprland/workspaces","pulseaudio",],
+  "modules-center":["clock"],
+  "modules-right": ["temperature","cpu","memory","load","tray"],
+}
