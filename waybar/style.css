@@ -1,6 +1,11 @@
 * {
   all: unset;
   font-size: 16px;
+  font-family: "FiraCode Nerd Font Mono";
+}
+
+#waybar {
+  background-color: #161b33;
 }
 
 #workspaces {
@@ -9,6 +14,7 @@
 
 #workspaces button {
   padding: 0 10px;
+  border-radius: 5px;
 }
 
 #workspaces button.active {
