@@ -10,9 +10,9 @@ global {
 
 subscription {
   # 在下面填入你的订阅链接。
-   shuaidaoya: 'https://gist.githubusercontent.com/shuaidaoya/9e5cf2749c0ce79932dd9229d9b4162b/raw/base64.txt'
-  # nomorewall: 'https://ghfast.top/https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt'
-  # epodonios: 'http://ghfast.top/https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/trojan.txt'
+  shuaidaoya: 'https://gist.githubusercontent.com/shuaidaoya/9e5cf2749c0ce79932dd9229d9b4162b/raw/base64.txt'
+  #freenode: 'https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub'
+  #as: 'https://ghfast.top/https://raw.githubusercontent.com/a2470982985/getNode/main/v2ray.txt'
 }
 
 
